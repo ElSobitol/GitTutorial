@@ -281,6 +281,8 @@ git rebase branch_name
 git clone <ссылка на репозиторий> <Название папки>
 </pre>
 
+источник https://habr.com/ru/company/ruvds/blog/599929/
+
 <style>
     H1 {color: SkyBlue;}
     h2 {color: SkyBlue;}
