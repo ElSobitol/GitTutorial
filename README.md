@@ -1,0 +1,1 @@
+Added some information about remote repository
