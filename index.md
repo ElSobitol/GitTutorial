@@ -1,4 +1,4 @@
-# Туториал по работе с Git
+# <w style="color:#20B2AA">Туториал по работе с Git
 
 ## Начало работы
 
@@ -47,7 +47,7 @@ git diff
 ```
 
 
-# Туториал по Markdown
+# <w style="color:#04FF00">Туториал по Markdown
 
 ## Как добавить списки
 
@@ -121,7 +121,7 @@ Content Cell | Content Cell
  https://colorscheme.ru/
 ```
 
-# Работа с удаленными репозиториями в GIT
+# <w style="color:#8A2BE2"> Работа с удаленными репозиториями в GIT
 
 Как сделать pull request
 ● Делаем fork репозитория
