@@ -17,3 +17,45 @@
 ```
 git add название файла
 ```
+## Работа с удаленными репозиториями
+
+Чтобы добавить привязку к удаленному репозиторию:
+```
+git remote add origin https://github.com/VitalyRybkin/test.git
+```
+... удалить привязку:
+```
+git remote rm origin
+```
+Получить данные об удаленном репозитории:
+```
+git remote show origin
+```
+Показать список удаленных репозиториев, связанных с локальным:
+```
+git remote -v 
+```
+Чтобы клонировать удаленный репозиторий в текущую директорию:
+```
+git clone https://github.com/VitalyRybkin/test.git
+```
+... в конкретную директорию FolderName:
+```
+git clone https://github.com/VitalyRybkin/test.git FolderName
+```
+Показать удаленные ветки:
+```
+git branch -r
+```
+Отправить на уделенный репозиторий данные ветки master:
+```
+git push origin master
+```
+Отправить на удаленный репозиторий все изменения с локального репозитория:
+```
+git push https://github.com/VitalyRybkin/test.git
+```
+Получить изменения на локальный репозиторий с удаленного:
+```
+git pull origin
+```
