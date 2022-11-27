@@ -50,7 +50,7 @@ git diff
 ```
 
 # Image with commands below
-![](https://cdn.discordapp.com/attachments/477193202760155146/1043911095162765433/Git_Commands_1.png)
+![](Git_Commands_1.png)
 
 # For more details use this link
 [Презентация Лекция 1 "Введение в контроль версий" V 1.0](https://gbcdn.mrgcdn.ru/uploads/asset/4686513/attachment/2a7bea78bdfcb70e5b65e89cc4f2e94b.pdf)
