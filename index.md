@@ -17,3 +17,17 @@
 ```
 git add название файла
 ```
+
+
+## Основные команды
+
+```
+* git init
+* git status
+* git add
+* git commit -m "message"
+* git log
+* git clone
+* git pull
+* git push
+```
