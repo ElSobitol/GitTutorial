@@ -30,3 +30,4 @@ git push
 git remote set-url origin <url-адрес репозитория> 
 ~~~
 
+Спасибо за внимание
