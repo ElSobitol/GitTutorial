@@ -36,4 +36,15 @@ https://github.com/
 ```
 git remote add origin https://github.com/ссылка_на_ваш_проект.git
 ```
+## Как отправить изменения в удаленный репозитарий
+
+Отправка коммита осуществляется с помощью команды push, которая имеет два параметра - имя удаленного репозитория (в нашем случае origin) и ветку, в которую необходимо внести изменения (master — это ветка по умолчанию для всех репозиториев).
+```
+$ git push origin master
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 212 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/tutorialzine/awesome-project.git
+* [new branch] master -> master
+```
 
