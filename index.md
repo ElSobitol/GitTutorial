@@ -48,3 +48,10 @@ To https://github.com/tutorialzine/awesome-project.git
 * [new branch] master -> master
 ```
 
+## Как клонировать удаленный репозитарий
+
+Если у других пользователей возникла необходимость клонировать удаленный репозитарий, они могут получить полностью работоспособную копию при помощи команды clone:
+```
+$ git clone https://github.com/tutorialzine/awesome-project.git
+```
+
