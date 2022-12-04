@@ -54,4 +54,13 @@ To https://github.com/tutorialzine/awesome-project.git
 ```
 $ git clone https://github.com/tutorialzine/awesome-project.git
 ```
+## Как запросить изменения с удаленного репозитария
+
+В случае, если другим пользователям нет необходимости делать клон удаленного репозитария, а нужно просто получить информацию об изменениях, это можно сделать с помощью команды pull:
+```
+$ git pull origin master
+From https://github.com/tutorialzine/awesome-project
+* branch master -> FETCH_HEAD
+Already up-to-date.
+```
 
