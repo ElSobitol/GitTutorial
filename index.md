@@ -39,3 +39,15 @@ git clone [url]
 ```bash
 git status
 ```
+
+Для того чтобы получить краткий отчет о состоянии, необходимо выполнить команду:
+
+```bash
+git status -s
+```
+
+или
+
+```bash
+git status --short
+```
