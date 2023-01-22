@@ -55,5 +55,9 @@ git status
 
 
 ```
-git push
+git push --set-upstream origin newBranch
 ```
+
+## отправляем запрос на пулл-реквест
+
+Это можно сделать в разделе Pull requests -> new request
