@@ -39,7 +39,7 @@ Resolving deltas: 100% (772/772), done.
 Checking connectivity... done.
 $ cd ticgit
 $ git remote
-origin
+
 ```
 
 
