@@ -78,6 +78,29 @@ git branch new_branch
 ```
 
 
+Чтобы перейти на новую ветку
+
+
+```
+git checkout branch new_branch
+```
+
+Чтобы слить ветки
+
+```
+git merge branch_name
+```
+
+Удалить уже слитую ветку
+
+```
+git branch-dbranch_name
+```
+
+
+
+
+
 
 
 
