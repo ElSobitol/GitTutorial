@@ -17,3 +17,11 @@
 ```
 git add название файла
 ```
+## Переключаемся в master
+git checkout master
+
+## Обновляем локальную ветку с сервера
+git pull origin master
+y
+T
+q
