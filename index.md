@@ -68,7 +68,14 @@ git checkout master
 git diff
 ```
 
+## Ветки
 
+Чтобы создать новую ветку, вводим команду
+
+
+```
+git branch new_branch
+```
 
 
 
